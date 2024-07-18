@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC</folder>
+  <filename>20.jpeg</filename>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>960</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license plate</name>
+    <bndbox>
+      <xmin>207</xmin>
+      <ymin>1105</ymin>
+      <xmax>547</xmax>
+      <ymax>1190</ymax>
+    </bndbox>
+    <polygon>
+      <x1>546</x1>
+      <y1>1110</y1>
+      <x2>544</x2>
+      <y2>1107</y2>
+      <x3>538</x3>
+      <y3>1105</y3>
+      <x4>381</x4>
+      <y4>1108</y4>
+      <x5>223</x5>
+      <y5>1107</y5>
+      <x6>211</x6>
+      <y6>1108</y6>
+      <x7>208</x7>
+      <y7>1113</y7>
+      <x8>207</x8>
+      <y8>1185</y8>
+      <x9>208</x9>
+      <y9>1188</y9>
+      <x10>211</x10>
+      <y10>1190</y10>
+      <x11>409</x11>
+      <y11>1189</y11>
+      <x12>541</x12>
+      <y12>1190</y12>
+      <x13>544</x13>
+      <y13>1189</y13>
+      <x14>547</x14>
+      <y14>1184</y14>
+    </polygon>
+  </object>
+</annotation>
